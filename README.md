@@ -1,8 +1,14 @@
 ## Hi there, it's Hasan Uddin 👋
 
+- 🌱 I’m currently learning: Flutter, Angular, ASP.NET Core
+- 🔭 I’m currently working as an Intern(Angular, ASP.NET) at [DappleSoft.Com](https://dapplesoft.com)
+
+<hr>
+
 - [x] **LinkedIn:** [Hasan Uddin](https://www.linkedin.com/in/hasan-uddin-original)
 - [x] **YouTube:** [LINK](https://www.youtube.com/errorxtech)
-- [x] **Email:** [abcnizamd@gmail.com](mailto:abcnizamd@gmail.com)  
+- [x] **Email:** [abcnizamd@gmail.com](mailto:abcnizamd@gmail.com)
+
 
 ### **Languages & Technologies**
 
