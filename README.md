@@ -17,7 +17,7 @@
 <code><img height="30" src="https://www.svgrepo.com/show/353631/dart.svg" alt="flutter" title="dart"></code>
 <code><img height="30" src="https://www.svgrepo.com/show/452045/js.svg" alt="JS" title="JavaScript"></code>
 <code><img height="30" src="https://www.svgrepo.com/show/374146/typescript-official.svg" alt="TS" title="TypeScript"></code>
-<code><img height="30" src="https://www.svgrepo.com/show/452091/python.svg" alt="TS" title="TypeScript"></code>
+<code><img height="30" src="https://www.svgrepo.com/show/452091/python.svg" alt="TS" title="python"></code>
 
 <code><img height="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git" title="Git"></code>
 <code><img height="30" src="https://www.svgrepo.com/show/303231/docker-logo.svg" alt="Docker" title="Docker"></code>
