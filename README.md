@@ -7,7 +7,7 @@
 
 - [x] **LinkedIn:** [Hasan Uddin](https://www.linkedin.com/in/hasan-uddin-original)
 - [x] **YouTube:** [LINK](https://www.youtube.com/errorxtech)
-- [X] **stackoverflow:** [LINK](https://stackoverflow.com/users/12862235/hasan-uddin) 
+- [X] **Stackoverflow:** [LINK](https://stackoverflow.com/users/12862235/hasan-uddin) 
 - [x] **Email:** [abcnizamd@gmail.com](mailto:abcnizamd@gmail.com)
 
 
