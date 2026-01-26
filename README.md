@@ -1,7 +1,7 @@
 ## Hi there, it's Hasan Uddin 👋
 
 - 🌱 I’m currently learning: Flutter, Angular, ASP.NET Core
-- 🔭 I’m currently working as an Intern(Angular, ASP.NET) at [DappleSoft.Com](https://dapplesoft.com)
+
 
 <hr>
 
