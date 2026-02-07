@@ -6,9 +6,10 @@
 <hr>
 
 - [x] **LinkedIn:** [Hasan Uddin](https://www.linkedin.com/in/hasan-uddin-original)
-- [x] **YouTube:** [LINK](https://www.youtube.com/errorxtech)
-- [X] **Stackoverflow:** [LINK](https://stackoverflow.com/users/12862235/hasan-uddin) 
 - [x] **Email:** [abcnizamd@gmail.com](mailto:abcnizamd@gmail.com)
+- [x] **YouTube:** [LINK](https://www.youtube.com/errorxtech)
+- [x] **Website:** [LINK](https://errorxtech.blogspot.com)
+- [X] **Stackoverflow:** [LINK](https://stackoverflow.com/users/12862235/hasan-uddin) 
 
 
 ### **Languages & Technologies**
