@@ -17,8 +17,6 @@
 <code><img height="30" src="https://www.svgrepo.com/show/353614/c-plusplus.svg" alt="C++" title="C++"></code>
 <code><img height="30" src="https://www.svgrepo.com/show/452184/csharp.svg" alt="C#" title="C#" /></code>
 <code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/DotNet.svg" alt=".NET" title=".NET" /></code>
-<code><img height="30" src="https://www.svgrepo.com/show/353631/dart.svg" alt="dart" title="dart"></code>
-<code><img height="30" src="https://www.svgrepo.com/show/353751/flutter.svg" alt="flutter" title="flutter"></code>
 <code><img height="30" src="https://www.svgrepo.com/show/452045/js.svg" alt="JS" title="JavaScript"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/HTML.svg" alt="HTML5" title="HTML5"></code>
 
@@ -26,6 +24,8 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/55/Android_Studio_Logo_%282023%29.svg" alt="android-studio" title="android-studio"></code>
 <code><img height="30" src="https://www.svgrepo.com/show/374146/typescript-official.svg" alt="TS" title="TypeScript"></code>
 <code><img height="30" src="https://www.svgrepo.com/show/452156/angular.svg" alt="angualr" title="Angular"></code>
+<code><img height="30" src="https://www.svgrepo.com/show/353631/dart.svg" alt="dart" title="dart"></code>
+<code><img height="30" src="https://www.svgrepo.com/show/353751/flutter.svg" alt="flutter" title="flutter"></code>
 <code><img height="30" src="https://www.svgrepo.com/show/452091/python.svg" alt="python" title="python"></code>
 <code><img height="30" src="https://www.svgrepo.com/show/473818/unity.svg" alt="Unity Engine" title="Unity Engine"></code>
 
