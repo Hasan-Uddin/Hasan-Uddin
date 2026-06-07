@@ -1,6 +1,6 @@
 ## Hi there, it's Hasan Uddin 👋
 
-- 🌱 I’m currently learning: Flutter, Angular, ASP.NET Core
+- 🌱 I’m currently focusing : ASP.NET Core
 
 
 <hr>
