@@ -1,6 +1,6 @@
 ## Hi there, it's Hasan Uddin 👋
 
-- 🌱 I’m currently focusing : ASP.NET Core
+- 🌱 I’m currently focusing: ASP.NET Core
 
 
 <hr>
@@ -29,10 +29,11 @@
 <code><img height="30" src="https://www.svgrepo.com/show/452091/python.svg" alt="python" title="python"></code>
 <code><img height="30" src="https://www.svgrepo.com/show/473818/unity.svg" alt="Unity Engine" title="Unity Engine"></code>
 
-- **Other Skills, and Familiarities**
+- **Other**
 <code><img height="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git" title="Git"></code>
 <code><img height="30" src="https://www.svgrepo.com/show/303231/docker-logo.svg" alt="Docker" title="Docker"></code>
 <code><img height="30" src="https://blog.opsmx.com/wp-content/uploads/2022/03/Standard-DevOps-CICD.png" alt="cicd" title="cicd"></code>
+<code><img height="30" alt="image" src="https://github.com/user-attachments/assets/2b9dbc29-6099-4178-8255-8154c5f1353d" title="GitHub Actions"/>/code>
 
 ### Profiles (Competitive Programming and Problem-Solving Platform)
 - [**hackerrank**](https://www.hackerrank.com/profile/takeover)
